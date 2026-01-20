@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
    <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Documento sin t&iacute;tulo  ccccc  xxx</title>
+        <title>Documento sin t&iacute;tulo  ccccc  xxx yyyy</title>
   </head>
 <body>
   <?php
@@ -26,4 +26,5 @@
      include "cerrar_conexion.php";
  ?>
 </body>
+
 </html>
